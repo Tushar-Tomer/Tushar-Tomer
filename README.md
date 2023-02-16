@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tushar-Tomer
 - 👀 I’m interested in Data Analytics, Data Visulalization, Data Science
-- 🌱 I’m currently learning Data Analytics and Data Visualization
+- 🌱 I’m currently learning Data Analytics , Data Visualization and Data Science
 - 💞️ I’m looking to collaborate on Data Science and Data Anlytics Projects
 - 📫 How to reach me tushartomer2244@gmail.com
 
