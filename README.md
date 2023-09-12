@@ -27,7 +27,7 @@
 <p>Connect with me on :-
 <br>	
 <a target="_blank" href="https://www.instagram.com/tushar_tomar123"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-<a target="_blank" href="https://www.kaggle.com/Tushar Tomer"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
+<a target="_blank" href="https://www.kaggle.com/tushartomer"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></img></a>
 </a>
 
 <br>
