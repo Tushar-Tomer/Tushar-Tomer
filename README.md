@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on House-Price Dataset
 - 👯 I’m looking to collaborate on Python Core,Data Science,Natural Language Processing , Machine Learning and Deep Learning Projects
 - 🤔 I’m Currently Learning AWS
-- 💬 Ask me about Python Programming , Machine Learning,Deep Learning, Tableu And Sql, Matplotlib , Seaborn
+- 💬 Ask me about Python Programming , Machine Learning , Tableu , Sql, Matplotlib , Seaborn , Power Bi , Statistics, Pandas , Numpy
 - 📫 How to reach me: tushartomer2244@gmail.com
 </p>
 
