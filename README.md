@@ -19,7 +19,6 @@
 
 - 🔭 I’m currently working on WhatsApp Data Analysis
 - 👯 I’m looking to collaborate on Python Core,Data Science,Natural Language Processing , Machine Learning and Deep Learning Projects
-- 🤔 I’m Currently Advance Excel
 - 💬 Ask me about Python Programming , Machine Learning , Tableu , Sql, Matplotlib , Seaborn , Power Bi , Statistics, Pandas , Numpy , Basic & Advance Excel
 - 📫 How to reach me: tushartomer2244@gmail.com
 </p>
